@@ -1,6 +1,4 @@
 # ServellonP11
-# Programmer: Mike Servellon
-# Email: mservellon@cnm.edu
 # Date : 11/21/2024
 # Purpose: Demonstrate how to a GUI
 
