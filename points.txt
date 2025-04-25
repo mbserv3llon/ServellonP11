@@ -1,0 +1,5 @@
+34.0549,118.2426,Los Angeles, home of the Dodgers
+40.7128,74.0060,New York, home of the Yankees
+37.7749,122.4194,San Francisco, home of the Giants
+43.6532,79.3832,Toronto, home of the Blue Jays
+27.9517,82.4588,Tampa Bay, home of the Rays
